@@ -151,7 +151,27 @@ body{
     height: 250px;
 }
 
-#footer h3{
+#footer > h3{
+    margin: 0 auto;
     text-align: center;
+    width: 200px;
+}
+
+.socmed {
     width: 100%;
+    font-size: 30px; 
+    text-align: center;
+}
+
+.socmed a{
+    color: #6c2e2e; 
+    text-decoration: none;
+    padding: 0 0.5cm 0 0.5cm;
+}
+
+#footer > img{
+    position: relative;
+    margin-left: 572px;
+    
+    
 }
