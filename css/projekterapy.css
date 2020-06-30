@@ -16,7 +16,6 @@ body{
     margin: 45px 0 0 0;
     list-style: none;
     text-align: right;
-    padding: 0%;
 }
 
 .nav ul li{
@@ -61,12 +60,12 @@ body{
 }
 
 #article{
-    padding-top: 5vmax;
+    padding-top: 50px;
     background-color: #fff3d1;
 }
 
 #article > h1{
-    font-size: 4vmax;
+    font-size: 40px;
     text-align: center;
     color: #6c2e2e ;
 }
@@ -75,17 +74,17 @@ body{
     background-color: #f1d4cd;
     width: 70%;
     margin: auto;
-    padding: 3vw;
+    padding: 40px;
 }
 
 .content > p{
-    text-indent: 2vmax;
+    text-indent: 30px;
     text-align: justify;
 }
 
 .content>img{
     float: right;
-    padding-left: 2vw;
+    padding-left: 25px;
 }
 
 #footer{
@@ -108,7 +107,7 @@ body{
 .socmed a{
     color: #6c2e2e; 
     text-decoration: none;
-    padding: 0 1vw;
+    padding: 0 15px;
 }
 .socmed a:hover{
     color: #f1d4cd;;
