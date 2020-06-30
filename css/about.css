@@ -83,6 +83,10 @@ body{
     right: 100px;
 
 }
+.gambar{
+    position: absolute;
+    top: 700px;
+}
 
 .quotes2{
     position: absolute;
@@ -90,11 +94,6 @@ body{
     text-align: center;
     line-height: 1.4;
     left: 600px;   
-}
-
-.quotes2 > img{
-    float: left;
-    padding-right: 100px;
 }
 
 #content3{
