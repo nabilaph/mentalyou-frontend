@@ -526,6 +526,7 @@ line-height: 60px;
 }
 
 #footer{
+    padding-top: 100px;
     background-color: #fff3d1;
     height: 250px;
 }
