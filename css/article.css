@@ -82,21 +82,20 @@ body{
 
 .icon3{
     position: absolute;
-    top: 200px;
+    top: 150px;
     left: 100px; 
 }
 .quotes1{
-    float: right;
     position: absolute;
     top: 200px;
-    right: 300px;
+    right: 100px;
     width: 500px;
     height: 500px;
     text-align: center !important;
 }
 
 .quotes1 > h1{
-    margin-bottom: 1cm;
+    margin-bottom: 30px;
     font-size: 50px;
 
 }
@@ -106,14 +105,7 @@ body{
 }
 
 .quotes1 > h3{
-
-  margin-top: 1cm;
-
-
-}
-
-.quotes1 > h3{
-    margin-top: 1cm;
+    margin-top: 30px;
     background-color: #6b2f2f ;
     width: 300px; 
     height: 45px;
@@ -121,15 +113,15 @@ body{
     margin-left: 20%;
     align-items: center;
 }
+
 .quotes1 > h3 a{
     text-decoration: none;
- color: #fff3d1 ;
- font-size: 30px;
+     color: #fff3d1 ;
+     font-size: 30px;
 }
 
 .quotes1 a:hover{
     color: #8f6b67;
-   
 }
 
 #content2{
@@ -142,7 +134,7 @@ body{
 background-color: #8f6b67;
 width: 400px;
 height: 400px;
-right: 400px;
+right: 300px;
 position: absolute;
 line-height: 60px;
 font-size: 30px;
@@ -160,7 +152,7 @@ text-align: center;
 }
 
 .quotes2 > h3{
-    margin-top: 1cm;
+    margin-top: 35px;
 }
 
 .quotes2 a:hover{
@@ -169,7 +161,7 @@ text-align: center;
 }
 
 .heading1 {
-    left: 400px;
+    left: 300px;
     line-height: 100px;
     position: absolute;
     font-size: 40px;
@@ -179,31 +171,32 @@ text-align: center;
 #content3{
     background-color:#fff3d1 ;
     width: 100%;
-    height: 450px;
+    height: 550px;
 }
 
 .bg1{
     position: absolute;
-    bottom: -250px;
+    bottom: -570px;
     right: 0;
 }
 
 .bg2{
     position: absolute;
-    bottom: -200px;
+    bottom: -520px;
 }
 
 .quotes3{
     position: absolute;
-    bottom: -500px;
+    bottom: -900px;
     font-size: 30px;
     color: #6b2f2f;
     text-align: center;
-    left: 200px;
+    left: 100px;
+    line-height: 40px;
 }
 
 .quotes3 > h4{
-    margin-top: 1cm;
+    margin-top: 30px;
 }
 
 .quotes3 > i{
@@ -213,9 +206,9 @@ text-align: center;
 
 .heading2{
     position: absolute;
-    bottom: -580px;
+    bottom: -900px;
     text-align: center;
-    right: 200px;
+    right: 100px;
 }
 
 .heading2 > h1{
@@ -224,7 +217,7 @@ line-height: 60px;
 }
 
 .heading2 > h3{
-    margin-top: 5cm;
+    margin-top: 150px;
     background-color: #6b2f2f ;
     width: 300px; 
     height: 45px;
@@ -239,291 +232,25 @@ line-height: 60px;
 }
 
 .heading2 a:hover{
-    color: #8f6b67;
-   
+    color: #8f6b67;  
 }
 
 .book1{
     position: absolute;
-    bottom: -480px;
-    right: 600px;
+    bottom: -800px;
+    right: 500px;
 }
 
 .book2{
     position: absolute;
-    bottom: -480px;
-    right: 400px;
+    bottom: -800px;
+    right: 290px;
 }
 
 .book3{
     position: absolute;
-    bottom: -480px;
-    right: 200px;
-
-}
-*{
-    margin: 0;
-    padding: 0;
-}
-body{
-    background: none repeat scroll 0 0;
-    font-family: 'Hammersmith One', sans-serif;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 1.5em;
-}
-
-.nav{
-    margin: 0 auto;
-    width: 80%;
-}
-
-.nav ul{
-    margin: 45px 0 0 0;
-    list-style: none;
-    text-align: right;
-}
-
-.nav ul li{
-    float: none;
-    display: inline-block;
-}
-
-.nav ul li:nth-child(1){
-    float: left;
-}
-
-.nav ul li:nth-child(2){
-    float: left;
-}
-
-.nav ul li a{
-    color: black;
-    text-decoration: none;
-    display: block;
-    padding: 10px 60px;
-}
-
-.nav ul li a:hover{
-    color: #6c2e2e;
-}
-
-#menu{
-    width: 100%;
-    height: fit-content;
-    position: relative;
-    background-color: #fff3d1;
-    border-color: #fff3d1 ;
-    border-style: solid;
-    border-width: 10px 0;
-}
-
-.logo{
-    position: absolute;
-    left: 50%;
-    top: 10px;
-    content: "";
-    margin-left: -85px;
-}
-
-#content1{
-    background-color:#fff3d1 ;
-    width: 100%;
-    height: 450px;
-}
-.icon1{
-    float: left;
-    position: absolute;
-    top: 200px;
-    left: 500px;
-}
-
-.icon2{
-    position: absolute;
-    right: 0;
-    top: 250px;
-    
-}
-
-.icon3{
-    position: absolute;
-    top: 200px;
-    left: 100px; 
-}
-.quotes1{
-    float: right;
-    position: absolute;
-    top: 200px;
-    right: 300px;
-    width: 500px;
-    height: 500px;
-    text-align: center !important;
-}
-
-.quotes1 > h1{
-    margin-bottom: 1cm;
-    font-size: 50px;
-
-}
-
-.quotes1 > p{
-    font-size: 30px;
-}
-
-.quotes1 > h3{
-
-  margin-top: 1cm;
-
-
-}
-
-.quotes1 > h3{
-    margin-top: 1cm;
-    background-color: #6b2f2f ;
-    width: 300px; 
-    height: 45px;
-    padding-top: 15px;
-    margin-left: 20%;
-    align-items: center;
-}
-.quotes1 > h3 a{
-    text-decoration: none;
- color: #fff3d1 ;
- font-size: 30px;
-}
-
-.quotes1 a:hover{
-    color: #8f6b67;
-   
-}
-
-#content2{
-    background-color:#fff3d1 ;
-    width: 100%;
-    height: 450px;
-}
-
-.quotes2  {
-background-color: #8f6b67;
-width: 400px;
-height: 400px;
-right: 400px;
-position: absolute;
-line-height: 60px;
-font-size: 30px;
-top: 600px;
-text-align: center;
-}
-
-.quotes2 > p{
-    color: white;
-}
-
-.quotes2 > h3 a{
-    text-decoration: none;
-    color:  #fff3d1;
-}
-
-.quotes2 > h3{
-    margin-top: 1cm;
-}
-
-.quotes2 a:hover{
-     color: #6c2e2e;
-    
-}
-
-.heading1 {
-    left: 400px;
-    line-height: 100px;
-    position: absolute;
-    font-size: 40px;
-    top: 650px;
-}
-
-#content3{
-    background-color:#fff3d1 ;
-    width: 100%;
-    height: 450px;
-}
-
-.bg1{
-    position: absolute;
-    bottom: -250px;
-    right: 0;
-}
-
-.bg2{
-    position: absolute;
-    bottom: -200px;
-}
-
-.quotes3{
-    position: absolute;
-    bottom: -500px;
-    font-size: 30px;
-    color: #6b2f2f;
-    text-align: center;
-    left: 200px;
-}
-
-.quotes3 > h4{
-    margin-top: 1cm;
-}
-
-.quotes3 > i{
-    margin-right: 16px;
-    color: red;
-}
-
-.heading2{
-    position: absolute;
-    bottom: -580px;
-    text-align: center;
-    right: 200px;
-}
-
-.heading2 > h1{
-font-size: 60px;
-line-height: 60px;
-}
-
-.heading2 > h3{
-    margin-top: 5cm;
-    background-color: #6b2f2f ;
-    width: 300px; 
-    height: 45px;
-    padding-top: 15px;
-    margin-left: 20%;
-    align-items: center;
-}
-
-.heading2 > h3 a{
-    text-decoration: none;
-    color:  #fff3d1;
-}
-
-.heading2 a:hover{
-    color: #8f6b67;
-   
-}
-
-.book1{
-    position: absolute;
-    bottom: -480px;
-    right: 600px;
-}
-
-.book2{
-    position: absolute;
-    bottom: -480px;
-    right: 400px;
-}
-
-.book3{
-    position: absolute;
-    bottom: -480px;
-    right: 200px;
+    bottom: -800px;
+    right: 80px;
 
 }
 
@@ -557,5 +284,5 @@ line-height: 60px;
 
 #footer > img{
     position: relative;
-    left: 46%;  
+    left: 616px;  
 }
