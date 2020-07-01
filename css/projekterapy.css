@@ -3,7 +3,7 @@
 body{
     background: none repeat scroll 0 0;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 1.3vw;
+    font-size: 18px;
     font-weight: 400;
 }
 
@@ -44,6 +44,7 @@ body{
 
 #menu{
     width: 100%;
+    height: fit-content;
     position: relative;
     background-color: #fff3d1;
     border-color: #fff3d1 ;

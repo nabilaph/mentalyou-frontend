@@ -12,11 +12,11 @@ body{
 
 .nav{
     margin: 0 auto;
-    width: 990px;
+    width: 80%;
 }
 
 .nav ul{
-    margin: 1.3cm 0 0 0;
+    margin: 45px 0 0 0;
     list-style: none;
     text-align: right;
 }
@@ -47,17 +47,18 @@ body{
 
 #menu{
     width: 100%;
+    height: fit-content;
     position: relative;
     background-color: #fff3d1;
     border-color: #fff3d1 ;
     border-style: solid;
-    border-width: 10px 0px;
+    border-width: 10px 0;
 }
 
 .logo{
     position: absolute;
     left: 50%;
-    top: 0.3cm;
+    top: 10px;
     content: "";
     margin-left: -85px;
 }
@@ -115,10 +116,10 @@ body{
     height: 250px;
 }
 
-#footer > h3{
+#footer > h4{
     margin: 0 auto;
     text-align: center;
-    width: 200px;
+    width: 100%;
 }
 
 .socmed {
@@ -130,12 +131,13 @@ body{
 .socmed a{
     color: #6c2e2e; 
     text-decoration: none;
-    padding: 0 0.5cm 0 0.5cm;
+    padding: 0 15px;
+}
+.socmed a:hover{
+    color: #f1d4cd;;
 }
 
 #footer > img{
     position: relative;
-    margin-left: 835px;
-    
-    
+    left: 45%;  
 }

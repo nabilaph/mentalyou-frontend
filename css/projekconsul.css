@@ -11,11 +11,11 @@ body{
 
 .nav{
     margin: 0 auto;
-    width: 990px;
+    width: 80%;
 }
 
 .nav ul{
-    margin: 50px 0 0 0;
+    margin: 45px 0 0 0;
     list-style: none;
     text-align: right;
 }
@@ -46,17 +46,18 @@ body{
 
 #menu{
     width: 100%;
+    height: fit-content;
     position: relative;
     background-color: #fff3d1;
     border-color: #fff3d1 ;
     border-style: solid;
-    border-width: 10px 0px;
+    border-width: 10px 0;
 }
 
 .logo{
     position: absolute;
     left: 50%;
-    top: 15px;
+    top: 10px;
     content: "";
     margin-left: -85px;
 }
