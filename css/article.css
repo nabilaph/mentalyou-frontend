@@ -76,7 +76,7 @@ body{
 .icon2{
     position: absolute;
     right: 0;
-    top: 250px;
+    top: 295px;
     
 }
 
@@ -92,12 +92,12 @@ body{
     width: 500px;
     height: 500px;
     text-align: center !important;
+    line-height: 40px;
 }
 
 .quotes1 > h1{
     margin-bottom: 30px;
     font-size: 50px;
-
 }
 
 .quotes1 > p{
@@ -217,7 +217,7 @@ line-height: 60px;
 }
 
 .heading2 > h3{
-    margin-top: 150px;
+    margin-top: 190px;
     background-color: #6b2f2f ;
     width: 300px; 
     height: 45px;
