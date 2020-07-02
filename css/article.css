@@ -12,19 +12,11 @@ body{
 
 .nav{
     margin: 0 auto;
-<<<<<<< HEAD
     width: 80%;
 }
 
 .nav ul{
     margin: 45px 0 0 0;
-=======
-    width: 990px;
-}
-
-.nav ul{
-    margin: 1.3cm 0 0 0;
->>>>>>> 29eed098c1cb1f1dbeffc7e7026515f382f5ab5f
     list-style: none;
     text-align: right;
 }
@@ -55,36 +47,22 @@ body{
 
 #menu{
     width: 100%;
-<<<<<<< HEAD
     height: fit-content;
-=======
->>>>>>> 29eed098c1cb1f1dbeffc7e7026515f382f5ab5f
     position: relative;
     background-color: #fff3d1;
     border-color: #fff3d1 ;
     border-style: solid;
-<<<<<<< HEAD
     border-width: 10px 0;
-=======
-    border-width: 10px 0px;
->>>>>>> 29eed098c1cb1f1dbeffc7e7026515f382f5ab5f
 }
 
 .logo{
     position: absolute;
     left: 50%;
-<<<<<<< HEAD
     top: 10px;
     content: "";
     margin-left: -85px;
 }
 
-=======
-    top: 0.3cm;
-    content: "";
-    margin-left: -85px;
-}
->>>>>>> 29eed098c1cb1f1dbeffc7e7026515f382f5ab5f
 #content1{
     background-color:#fff3d1 ;
     width: 100%;
