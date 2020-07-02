@@ -65,7 +65,14 @@ body{
 #content1{
     background-color: #fff3d1;
     width: 100%;
-    height: 450px;
+    height: 510px;
+}
+
+#content1 i{
+    font-size: 30px; 
+    color: #6c2e2e;
+    position: relative;
+    margin: 100px 0 0 50%;
 }
 
 .quotes1{
@@ -83,9 +90,9 @@ body{
 }
 
 #content2{
-    background-size: 100% 450px;
-    height: 450px !important;
-    display: block;
+    background-size: 100% 100%;
+    /* height: 100% !important; */
+    display: flex;
     position: relative;
 }
 
@@ -120,7 +127,7 @@ body{
 #content3{
     background-color:#6c2e2e ;
     width: 100%;
-    height: 450px;
+    height: 510px;
 }
 
 #content3 img{
